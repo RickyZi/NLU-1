@@ -4,6 +4,7 @@ This repository contains my solution for the first assignment of the NLU course.
 
 # Requirements
 In order to run this Jupyter Notebook is necessary to have installed Spacy and also run all the block in sequence.
+
 To install Spacy:
 - pip install spacy
 - python -m spacy download en_core_web_sm (to install English models)
