@@ -8,4 +8,4 @@ To do so:
 - pip install spacy
 - python -m spacy download en_core_web_sm (to install English models)
 
-If this doesn't work pleas check the Spacy documentation -> https://spacy.io/usage 
+If this doesn't work please check the Spacy documentation -> https://spacy.io/usage 
